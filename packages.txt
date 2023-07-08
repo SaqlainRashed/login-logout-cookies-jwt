@@ -1,0 +1,6 @@
+npm i *
+
+mongoose - to connect to MongoDB
+cookie-parser - to create cookies
+jsonwebtoken - jwt token to encrypt user id and store in cookies
+bcrypt - to encrypt passwords
